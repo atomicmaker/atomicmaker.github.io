@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 
 const Card = () => {
-  const audioSrc = '/src/assets/music/好想爱这个世界啊-华晨宇.mp3'
+  const audioSrc = '/src/assets/music/world-love.mp3'
 
   const music = [
     {name: "好想爱这个世界啊", singer: "华晨宇", duration: "4:18"}
